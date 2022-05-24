@@ -1,0 +1,172 @@
+[
+    {
+        "name": "Pepito se fue a dormir",
+        "duration": 180,
+        "type": "Pop",
+        "singer": [
+            {
+                "nombre": "Pepito Bustamante",
+                "age": 28,
+                "Birthday": "09-05-1984"
+            },
+            {
+                "nombre": "Alquitran Bustamante",
+                "age": 18,
+                "Birthday": "09-05-1994"
+            }
+        ]
+    },
+    {
+        "name": "Pepito se fue a cazar",
+        "duration": 170,
+        "type": "Pop",
+        "singer": [
+            {
+                "nombre": "Pepito Bustamante",
+                "age": 28,
+                "Birthday": "09-05-1984"
+            },
+            {
+                "nombre": "Alquitran Bustamante",
+                "age": 18,
+                "Birthday": "09-05-1994"
+            }
+        ]
+    },
+    {
+        "name": "Pepito se fue a bañar",
+        "duration": 270,
+        "type": "Pop",
+        "singer": [
+            {
+                "nombre": "Pepito Bustamante",
+                "age": 28,
+                "Birthday": "09-05-1984"
+            },
+            {
+                "nombre": "Alquitran Bustamante",
+                "age": 18,
+                "Birthday": "09-05-1994"
+            }
+        ]
+    },
+    {
+        "name": "Pepito se fue a pernoctar",
+        "duration": 197,
+        "type": "Pop",
+        "singer": [
+            {
+                "nombre": "Pechoescombro Bustamante",
+                "age": 28,
+                "Birthday": "09-05-1984"
+            },
+            {
+                "nombre": "Alquitran Bustamante",
+                "age": 18,
+                "Birthday": "09-05-1994"
+            }
+        ]
+    },
+    {
+        "name": "Pepito se fue a estudiar",
+        "duration": 370,
+        "type": "Pop",
+        "singer": [
+            {
+                "nombre": "Mustio Bustamante",
+                "age": 28,
+                "Birthday": "09-05-1984"
+            },
+            {
+                "nombre": "Alquitran Bustamante",
+                "age": 18,
+                "Birthday": "09-05-1994"
+            }
+        ]
+    },
+    {
+        "name": "Pepito se fue a caminar",
+        "duration": 220,
+        "type": "Pop",
+        "singer": [
+            {
+                "nombre": "Pepito Bustamante",
+                "age": 28,
+                "Birthday": "09-05-1984"
+            },
+            {
+                "nombre": "Albaricoque Bustamante",
+                "age": 18,
+                "Birthday": "09-05-1994"
+            }
+        ]
+    },
+    {
+        "name": "Pepito se fue a navegar",
+        "duration": 272,
+        "type": "Pop",
+        "singer": [
+            {
+                "nombre": "Pepinillo Bustamante",
+                "age": 28,
+                "Birthday": "09-05-1984"
+            },
+            {
+                "nombre": "Oliva Bustamante",
+                "age": 18,
+                "Birthday": "09-05-1994"
+            }
+        ]
+    },
+    {
+        "name": "Pepito se fue a nadar",
+        "duration": 370,
+        "type": "Pop",
+        "singer": [
+            {
+                "nombre": "Altramuz Bustamante",
+                "age": 28,
+                "Birthday": "09-05-1984"
+            },
+            {
+                "nombre": "Jodiendo Bustamante",
+                "age": 18,
+                "Birthday": "09-05-1994"
+            }
+        ]
+    },
+    {
+        "name": "Pepito se fue a mear",
+        "duration": 272,
+        "type": "Pop",
+        "singer": [
+            {
+                "nombre": "Pepinillo Bustamante",
+                "age": 28,
+                "Birthday": "09-05-1984"
+            },
+            {
+                "nombre": "Oliva Bustamante",
+                "age": 18,
+                "Birthday": "09-05-1994"
+            }
+        ]
+    },
+    {
+        "name": "Pepito se fue a bucear",
+        "duration": 370,
+        "type": "Pop",
+        "singer": [
+            {
+                "nombre": "Altramuz Bustamante",
+                "age": 28,
+                "Birthday": "09-05-1984"
+            },
+            {
+                "nombre": "Jodiendo Bustamante",
+                "age": 18,
+                "Birthday": "09-05-1994"
+            }
+        ]
+    }
+]
