@@ -16,23 +16,11 @@
     diuen el mateix que d’esquerra a dreta. Exemple de palíndrom: “A cavar a Caravaca”.
     */
 
-    $frase = "a cavar a caravaca";
+    $frase = "dabale arroz a la zorra el abad";
     $frase1 = "";
-   // $cadenaLimpia = trim($frase);
     $cadenaLimpia = str_replace(' ', '', $frase);
-    echo $cadenaLimpia;
     $longitud = strlen($cadenaLimpia);
-
-    $escrito = false;
-
-    /*for ($i = 0; $i < $longitud; $i++) {
-        $escrito = false;
-        for ($j = $longitud; $j >= 0 && $escrito == false; $j--) {
-            $frase1[$j] = $cadenaLimpia[$i];
-            $escrito = true;
-        }
-    }*/
-
+    
     for ($i = $longitud - 1 ; $i >= 0 ; $i-- ) {
         $frase1[$longitud - 1 - $i] = $cadenaLimpia[$i];
     }
