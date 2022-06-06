@@ -23,7 +23,17 @@
     guardar el valor numèric
     */
 
-    
+    $arrayAssociatiu = array("Lunes" => 1, "Martes" => 2, "Miercoles" => 3, "Jueves" => 4, "Viernes" => 5, "Sábado" => 6, "Domingo" => 7);
+    $valorNumerico = 1;
+    $diaSemana = "Lunes";
+
+    foreach ($arrayAssociatiu as $index => $contingut) {
+        if ($index == $diaSemana) {
+            echo " $index <br/>";
+        }
+        if ($valorNumerico == $contingut)
+            echo " $contingut<br/>";
+    }
 
     ?>
 </body>
